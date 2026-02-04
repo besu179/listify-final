@@ -56,7 +56,6 @@ This backend is specifically optimized for **mobile integration**, with a focus 
 | `/api/v1/songs` | GET | List available tracks |
 | `/api/v1/users/:id/follow`| POST | Follow a user |
 
-*Detailed documentation for each subsystem is available in the `brain/` directory.*
 
 ---
 
